@@ -72,4 +72,4 @@ Run with `python -m pytest -q`.
 
 ## Commits
 
-(screenshot of `git log --oneline` goes here once each fix is committed)
+![alt text](image-1.png)
